@@ -23,7 +23,7 @@ The dataset contains one row per programme for the year 2026. Each row records:
 - application deadline
 - source URL and access date
 
-The unit of observation is the programme-year. The pilot contains at least 80–100 records collected by four team members across four regions.
+The unit of observation is the programme-year. The pilot contains records collected by four team members across four regions.
 
 ## Where they came from
 
@@ -35,7 +35,7 @@ Data were collected from official programme websites:
 - tuition page
 - employment report page
 
-Each member collected 20–25 programmes from their assigned region:
+Each member collected programmes from their assigned region:
 
 - North America — Yuhang Yu
 - Europe — Xiaoxue He
